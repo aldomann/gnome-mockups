@@ -1,0 +1,2740 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="1050"
+   id="svg16644"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 7">
+  <defs
+     id="defs16646">
+    <filter
+       inkscape:collect="always"
+       id="filter60906-3-6-1-7"
+       x="-0.0062849554"
+       width="1.0125699"
+       y="-0.13280052"
+       height="1.265601"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.6810041"
+         id="feGaussianBlur60908-1-9-2-5" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4026"
+       id="linearGradient16393"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(113.4998,-1806.1378)"
+       x1="643.52222"
+       y1="39.437634"
+       x2="643.52222"
+       y2="9.5623693" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4026">
+      <stop
+         style="stop-color:#ededed;stop-opacity:1"
+         offset="0"
+         id="stop4028" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop4030" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient60585-4-48"
+       id="linearGradient16255"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.44303797,0,0,1.0322581,87.291143,-2556.9314)"
+       x1="49"
+       y1="39.502155"
+       x2="49.000004"
+       y2="10.497845" />
+    <linearGradient
+       id="linearGradient60585-4-48"
+       inkscape:collect="always">
+      <stop
+         id="stop60587-8-5"
+         offset="0"
+         style="stop-color:#dbdbdb;stop-opacity:1" />
+      <stop
+         id="stop60589-6-3"
+         offset="1"
+         style="stop-color:#f7f7f7;stop-opacity:1" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15336-7"
+       is_visible="true" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient54928-6-8-0"
+       id="linearGradient16257"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5918367,0,0,0.85714285,-256.56122,59.071426)"
+       x1="479"
+       y1="392"
+       x2="479"
+       y2="380" />
+    <linearGradient
+       id="linearGradient54928-6-8-0"
+       inkscape:collect="always">
+      <stop
+         id="stop54930-6-8-0"
+         offset="0"
+         style="stop-color:#fefefe;stop-opacity:1" />
+      <stop
+         id="stop54932-2-2-7"
+         offset="1"
+         style="stop-color:#f1f1f1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62991-9-6"
+       id="linearGradient16259"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3066667,0,0,1,-197.64667,0)"
+       x1="702.58966"
+       y1="484.49405"
+       x2="702.58966"
+       y2="507.42715" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient62991-9-6">
+      <stop
+         style="stop-color:#589fe9;stop-opacity:1"
+         offset="0"
+         id="stop62993-6-9" />
+      <stop
+         style="stop-color:#a3cefe;stop-opacity:1"
+         offset="1"
+         id="stop62995-1-6" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62852-6-5"
+       id="linearGradient16261"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2857143,0,0,1,-233.42856,0)"
+       x1="740"
+       y1="486.10501"
+       x2="740"
+       y2="505.3204" />
+    <linearGradient
+       id="linearGradient62852-6-5">
+      <stop
+         id="stop62854-6-7"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:1"
+         offset="0.97726452"
+         id="stop62858-8-0" />
+      <stop
+         id="stop62860-5-3"
+         offset="1"
+         style="stop-color:#f5f5f4;stop-opacity:1" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect62989-8-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect13674"
+       effect="spiro" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient54928-6-8-0-9"
+       id="linearGradient16263"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5918367,0,0,0.85714285,-256.56122,59.071426)"
+       x1="479"
+       y1="392"
+       x2="479"
+       y2="380" />
+    <linearGradient
+       id="linearGradient54928-6-8-0-9"
+       inkscape:collect="always">
+      <stop
+         id="stop54930-6-8-0-8"
+         offset="0"
+         style="stop-color:#fefefe;stop-opacity:1" />
+      <stop
+         id="stop54932-2-2-7-8"
+         offset="1"
+         style="stop-color:#f1f1f1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62821-5-8-6"
+       id="linearGradient16265"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3066667,0,0,1,-197.64667,0)"
+       x1="702.58966"
+       y1="484.49405"
+       x2="702.58966"
+       y2="507.42715" />
+    <linearGradient
+       id="linearGradient62821-5-8-6">
+      <stop
+         id="stop62823-2-4-6"
+         offset="0"
+         style="stop-color:#d1d3d1;stop-opacity:1;" />
+      <stop
+         id="stop62825-3-8-0"
+         offset="1"
+         style="stop-color:#ebebeb;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62852-6-5-9"
+       id="linearGradient16267"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2857143,0,0,1,-282.42856,0)"
+       x1="740"
+       y1="486.10501"
+       x2="740"
+       y2="505.3204" />
+    <linearGradient
+       id="linearGradient62852-6-5-9">
+      <stop
+         id="stop62854-6-7-1"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:1"
+         offset="0.97726452"
+         id="stop62858-8-0-5" />
+      <stop
+         id="stop62860-5-3-7"
+         offset="1"
+         style="stop-color:#f5f5f4;stop-opacity:1" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect62829-6-8-0-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect13774"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect26605"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect26602"
+       is_visible="true" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient54928-6-8-0-9"
+       id="linearGradient16269"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5918367,0,0,0.85714285,-256.56122,59.071426)"
+       x1="479"
+       y1="392"
+       x2="479"
+       y2="380" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62821-5-8-6"
+       id="linearGradient16272"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3066667,0,0,1,-197.64667,0)"
+       x1="702.58966"
+       y1="484.49405"
+       x2="702.58966"
+       y2="507.42715" />
+    <linearGradient
+       id="linearGradient17428">
+      <stop
+         id="stop17430"
+         offset="0"
+         style="stop-color:#d1d3d1;stop-opacity:1;" />
+      <stop
+         id="stop17432"
+         offset="1"
+         style="stop-color:#ebebeb;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62852-6-5-9"
+       id="linearGradient16274"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2857143,0,0,1,-282.42856,0)"
+       x1="740"
+       y1="486.10501"
+       x2="740"
+       y2="505.3204" />
+    <linearGradient
+       id="linearGradient17435">
+      <stop
+         id="stop17437"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:1"
+         offset="0.97726452"
+         id="stop17439" />
+      <stop
+         id="stop17441"
+         offset="1"
+         style="stop-color:#f5f5f4;stop-opacity:1" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17443"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect26602-8"
+       is_visible="true" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3967"
+       id="linearGradient16190"
+       gradientUnits="userSpaceOnUse"
+       x1="712.5"
+       y1="9.6225729"
+       x2="712.5"
+       y2="35.377438" />
+    <linearGradient
+       id="linearGradient3967">
+      <stop
+         id="stop3969"
+         offset="0"
+         style="stop-color:#e9e9e9;stop-opacity:1" />
+      <stop
+         style="stop-color:#c6c6c6;stop-opacity:1"
+         offset="0.41865745"
+         id="stop3971" />
+      <stop
+         style="stop-color:#bebebe;stop-opacity:1"
+         offset="0.63832337"
+         id="stop3973" />
+      <stop
+         id="stop3975"
+         offset="1"
+         style="stop-color:#d6d6d6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3830-5"
+       id="linearGradient16192"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(40,0)"
+       x1="702.5"
+       y1="9.9975004"
+       x2="702.5"
+       y2="35.002499" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3830-5">
+      <stop
+         style="stop-color:#a6a6a6;stop-opacity:1;"
+         offset="0"
+         id="stop3832-8" />
+      <stop
+         style="stop-color:#bebebe;stop-opacity:1"
+         offset="1"
+         id="stop3834-3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3859-5"
+       id="linearGradient16194"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(40,0)"
+       x1="702"
+       y1="10"
+       x2="702"
+       y2="37" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3859-5">
+      <stop
+         style="stop-color:#dfdfdf;stop-opacity:1"
+         offset="0"
+         id="stop3861-6" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop3863-5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4026-1">
+      <stop
+         style="stop-color:#ededed;stop-opacity:1"
+         offset="0"
+         id="stop4028-2" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop4030-7" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3967-8">
+      <stop
+         id="stop3969-9"
+         offset="0"
+         style="stop-color:#e9e9e9;stop-opacity:1" />
+      <stop
+         style="stop-color:#c6c6c6;stop-opacity:1"
+         offset="0.41865745"
+         id="stop3971-8" />
+      <stop
+         style="stop-color:#bebebe;stop-opacity:1"
+         offset="0.63832337"
+         id="stop3973-9" />
+      <stop
+         id="stop3975-3"
+         offset="1"
+         style="stop-color:#d6d6d6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3830-5-0">
+      <stop
+         style="stop-color:#a6a6a6;stop-opacity:1;"
+         offset="0"
+         id="stop3832-8-2" />
+      <stop
+         style="stop-color:#bebebe;stop-opacity:1"
+         offset="1"
+         id="stop3834-3-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3859-5-0">
+      <stop
+         style="stop-color:#dfdfdf;stop-opacity:1"
+         offset="0"
+         id="stop3861-6-5" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop3863-5-0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient60585-4-48-8"
+       inkscape:collect="always">
+      <stop
+         id="stop60587-8-5-5"
+         offset="0"
+         style="stop-color:#dbdbdb;stop-opacity:1" />
+      <stop
+         id="stop60589-6-3-4"
+         offset="1"
+         style="stop-color:#f7f7f7;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient54975-2-4-2"
+       inkscape:collect="always">
+      <stop
+         id="stop54977-3-7-2"
+         offset="0"
+         style="stop-color:#fefefe;stop-opacity:1" />
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1;"
+         offset="0.84817392"
+         id="stop54981-5-5-5" />
+      <stop
+         id="stop54979-8-25-5"
+         offset="1"
+         style="stop-color:#d2d2d2;stop-opacity:1" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect57728-9-9-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15336-7-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15336-7-3-5"
+       is_visible="true" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4026-1"
+       id="linearGradient18516"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(214.63179,-2314.1283)"
+       x1="643.52222"
+       y1="39.437634"
+       x2="643.52222"
+       y2="9.5623693" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3967-8"
+       id="linearGradient18518"
+       gradientUnits="userSpaceOnUse"
+       x1="712.5"
+       y1="9.6225729"
+       x2="712.5"
+       y2="35.377438" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3830-5-0"
+       id="linearGradient18520"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(40,0)"
+       x1="702.5"
+       y1="9.9975004"
+       x2="702.5"
+       y2="35.002499" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3859-5-0"
+       id="linearGradient18522"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(40,0)"
+       x1="702"
+       y1="10"
+       x2="702"
+       y2="37" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient60585-4-48-8"
+       id="linearGradient18524"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.44303797,0,0,1.0322581,87.291143,-2556.9314)"
+       x1="49"
+       y1="39.502155"
+       x2="49.000004"
+       y2="10.497845" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient54975-2-4-2"
+       id="linearGradient18526"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7040816,0,0,0.85714285,-236.21937,-2589.5569)"
+       x1="479"
+       y1="392"
+       x2="479"
+       y2="378.96838" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4026"
+       id="linearGradient19544"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(113.4998,-1806.1378)"
+       x1="643.52222"
+       y1="39.437634"
+       x2="643.52222"
+       y2="9.5623693" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient60585-4-48"
+       id="linearGradient19546"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.44303797,0,0,1.0322581,87.291143,-2556.9314)"
+       x1="49"
+       y1="39.502155"
+       x2="49.000004"
+       y2="10.497845" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient54928-6-8-0"
+       id="linearGradient19548"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5918367,0,0,0.85714285,-256.56122,59.071426)"
+       x1="479"
+       y1="392"
+       x2="479"
+       y2="380" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62991-9-6"
+       id="linearGradient19550"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3066667,0,0,1,-197.64667,0)"
+       x1="702.58966"
+       y1="484.49405"
+       x2="702.58966"
+       y2="507.42715" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62852-6-5"
+       id="linearGradient19552"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2857143,0,0,1,-233.42856,0)"
+       x1="740"
+       y1="486.10501"
+       x2="740"
+       y2="505.3204" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient54928-6-8-0-9"
+       id="linearGradient19554"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5918367,0,0,0.85714285,-256.56122,59.071426)"
+       x1="479"
+       y1="392"
+       x2="479"
+       y2="380" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62821-5-8-6"
+       id="linearGradient19556"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3066667,0,0,1,-197.64667,0)"
+       x1="702.58966"
+       y1="484.49405"
+       x2="702.58966"
+       y2="507.42715" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62852-6-5-9"
+       id="linearGradient19558"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2857143,0,0,1,-282.42856,0)"
+       x1="740"
+       y1="486.10501"
+       x2="740"
+       y2="505.3204" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient54928-6-8-0-9"
+       id="linearGradient19560"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5918367,0,0,0.85714285,-256.56122,59.071426)"
+       x1="479"
+       y1="392"
+       x2="479"
+       y2="380" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62821-5-8-6"
+       id="linearGradient19562"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3066667,0,0,1,-197.64667,0)"
+       x1="702.58966"
+       y1="484.49405"
+       x2="702.58966"
+       y2="507.42715" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62852-6-5-9"
+       id="linearGradient19564"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2857143,0,0,1,-282.42856,0)"
+       x1="740"
+       y1="486.10501"
+       x2="740"
+       y2="505.3204" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3967"
+       id="linearGradient19566"
+       gradientUnits="userSpaceOnUse"
+       x1="712.5"
+       y1="9.6225729"
+       x2="712.5"
+       y2="35.377438" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3830-5"
+       id="linearGradient19568"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(40,0)"
+       x1="702.5"
+       y1="9.9975004"
+       x2="702.5"
+       y2="35.002499" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3859-5"
+       id="linearGradient19570"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(40,0)"
+       x1="702"
+       y1="10"
+       x2="702"
+       y2="37" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4026-1"
+       id="linearGradient19572"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(214.63179,-2314.1283)"
+       x1="643.52222"
+       y1="39.437634"
+       x2="643.52222"
+       y2="9.5623693" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3967-8"
+       id="linearGradient19574"
+       gradientUnits="userSpaceOnUse"
+       x1="712.5"
+       y1="9.6225729"
+       x2="712.5"
+       y2="35.377438" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3830-5-0"
+       id="linearGradient19576"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(40,0)"
+       x1="702.5"
+       y1="9.9975004"
+       x2="702.5"
+       y2="35.002499" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3859-5-0"
+       id="linearGradient19578"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(40,0)"
+       x1="702"
+       y1="10"
+       x2="702"
+       y2="37" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient60585-4-48-8"
+       id="linearGradient19580"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.44303797,0,0,1.0322581,87.291143,-2556.9314)"
+       x1="49"
+       y1="39.502155"
+       x2="49.000004"
+       y2="10.497845" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient54975-2-4-2"
+       id="linearGradient19582"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7040816,0,0,0.85714285,-236.21937,-2589.5569)"
+       x1="479"
+       y1="392"
+       x2="479"
+       y2="378.96838" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4026-1"
+       id="linearGradient19830"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(214.63179,-2314.1283)"
+       x1="643.52222"
+       y1="39.437634"
+       x2="643.52222"
+       y2="9.5623693" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3967-8"
+       id="linearGradient19832"
+       gradientUnits="userSpaceOnUse"
+       x1="712.5"
+       y1="9.6225729"
+       x2="712.5"
+       y2="35.377438" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3830-5-0"
+       id="linearGradient19834"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(40,0)"
+       x1="702.5"
+       y1="9.9975004"
+       x2="702.5"
+       y2="35.002499" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3859-5-0"
+       id="linearGradient19836"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(40,0)"
+       x1="702"
+       y1="10"
+       x2="702"
+       y2="37" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient60585-4-48-8"
+       id="linearGradient19838"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.44303797,0,0,1.0322581,87.291143,-2556.9314)"
+       x1="49"
+       y1="39.502155"
+       x2="49.000004"
+       y2="10.497845" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient54975-2-4-2"
+       id="linearGradient19840"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7040816,0,0,0.85714285,-236.21937,-2589.5569)"
+       x1="479"
+       y1="392"
+       x2="479"
+       y2="378.96838" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="494.70238"
+     inkscape:cy="807.65617"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata16649">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Background"
+     sodipodi:insensitive="true">
+    <rect
+       style="color:#000000;fill:#009688;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect19842"
+       width="800"
+       height="1050"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="Wireframe"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-2.362183)">
+    <g
+       transform="translate(-16.642648,2350.0001)"
+       id="g15482">
+      <path
+         sodipodi:nodetypes="sssccss"
+         inkscape:connector-curvature="0"
+         id="path26952"
+         d="m 550.33152,28.538289 502.75108,0 c 4.432,0 7.9999,3.568001 8,8.000002 l 0,458.676329 -518.75108,0 0,-458.676329 c 0,-4.432001 3.568,-8.000002 8,-8.000002 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter60906-3-6-1-7);enable-background:new"
+         transform="matrix(0.99997097,0,0,0.99962196,-381.68398,-2334.6558)" />
+      <path
+         transform="matrix(0.99997097,0,0,0.99962196,-381.68398,-1854.6558)"
+         style="fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter60906-3-6-1-7);enable-background:new"
+         d="m 449.19659,56.539374 705.02111,0 c 4.432,0 8,3.568001 8,8.000002 l 0,452.674044 -721.02111,0 0,-452.674044 c 0,-4.432001 3.568,-8.000002 8,-8.000002 z"
+         id="path7843"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssccss" />
+    </g>
+    <g
+       transform="translate(-16.642657,2350.0001)"
+       id="g16396">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+         style="fill:#ededed;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.99999994;stroke-opacity:1;display:inline"
+         id="rect5027"
+         width="720"
+         height="429.00003"
+         x="59.999802"
+         y="-1767.1379" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+         style="color:#000000;fill:url(#linearGradient19544);fill-opacity:1;fill-rule:nonzero;stroke:#a6a6a6;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 59.9998,-1766.1378 0,-26.5 c 0,-2.77 2.23,-5 5,-5 l 710.0002,0 c 2.77,0 5,2.23 5,5 l 0,26.5"
+         id="path5029"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssssc" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+         style="display:inline"
+         id="g5061"
+         transform="matrix(0.9972261,0,0,1,-26.25887,631.9872)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5063"
+           d="m 87.5,-2349.125 719.99909,0"
+           style="fill:none;stroke:#b5b8b5;stroke-width:1.00138986px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1.00138986px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 87.5,-2348.125 719.99998,0"
+           id="path5065"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+         transform="translate(-9.4999087,-1110.2453)"
+         id="g8240">
+        <g
+           transform="translate(-12.5002,1897.9872)"
+           id="g5067"
+           style="display:inline">
+          <rect
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+             ry="3"
+             rx="3"
+             y="-2545.125"
+             x="91.5"
+             height="30.999998"
+             width="35"
+             id="rect5069"
+             style="opacity:0.4;color:#000000;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+          <rect
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+             ry="3"
+             rx="3"
+             y="-2547.125"
+             x="91.5"
+             height="32"
+             width="35"
+             id="rect5071"
+             style="color:#000000;fill:url(#linearGradient19546);fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path5073"
+             d="m 93.219345,-2546.1856 30.252115,0"
+             style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <g
+             style="fill:#f4f4f4;fill-opacity:1"
+             transform="translate(100.99788,-2538.145)"
+             id="g5075">
+            <g
+               id="g5077"
+               inkscape:label="status"
+               style="fill:#f4f4f4;fill-opacity:1;display:inline"
+               transform="translate(-61.0004,-867)" />
+            <g
+               style="fill:#f4f4f4;fill-opacity:1"
+               id="g5079"
+               inkscape:label="devices"
+               transform="translate(-61.0004,-867)" />
+            <g
+               style="fill:#f4f4f4;fill-opacity:1"
+               id="g5081"
+               inkscape:label="apps"
+               transform="translate(-61.0004,-867)" />
+            <g
+               style="fill:#f4f4f4;fill-opacity:1"
+               id="g5083"
+               inkscape:label="places"
+               transform="translate(-61.0004,-867)" />
+            <g
+               style="fill:#f4f4f4;fill-opacity:1"
+               id="g5085"
+               inkscape:label="mimetypes"
+               transform="translate(-61.0004,-867)" />
+            <g
+               id="g5087"
+               inkscape:label="emblems"
+               style="fill:#f4f4f4;fill-opacity:1;display:inline"
+               transform="translate(-61.0004,-867)" />
+            <g
+               id="g5089"
+               inkscape:label="emotes"
+               style="fill:#f4f4f4;fill-opacity:1;display:inline"
+               transform="translate(-61.0004,-867)" />
+            <g
+               id="g5091"
+               inkscape:label="categories"
+               style="fill:#f4f4f4;fill-opacity:1;display:inline"
+               transform="translate(-61.0004,-867)" />
+            <g
+               id="g5093"
+               inkscape:label="actions"
+               style="fill:#f4f4f4;fill-opacity:1;display:inline"
+               transform="translate(-61.0004,-867)">
+              <path
+                 sodipodi:cx="-176.94243"
+                 sodipodi:cy="653.02588"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 id="path5095"
+                 sodipodi:rx="1.2705826"
+                 sodipodi:ry="1.2705826"
+                 style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 transform="translate(241.95037,217.9945)"
+                 sodipodi:type="arc" />
+              <path
+                 sodipodi:cx="-176.94243"
+                 sodipodi:cy="653.02588"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 id="path5097"
+                 sodipodi:rx="1.2705826"
+                 sodipodi:ry="1.2705826"
+                 style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 transform="translate(245.8731,217.9945)"
+                 sodipodi:type="arc" />
+              <path
+                 sodipodi:cx="-176.94243"
+                 sodipodi:cy="653.02588"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 id="path5099"
+                 sodipodi:rx="1.2705826"
+                 sodipodi:ry="1.2705826"
+                 style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 transform="translate(249.93953,217.9945)"
+                 sodipodi:type="arc" />
+              <path
+                 sodipodi:cx="-176.94243"
+                 sodipodi:cy="653.02588"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 id="path5101"
+                 sodipodi:rx="1.2705826"
+                 sodipodi:ry="1.2705826"
+                 style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 transform="translate(241.95037,221.9945)"
+                 sodipodi:type="arc" />
+              <path
+                 sodipodi:cx="-176.94243"
+                 sodipodi:cy="653.02588"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 id="path5103"
+                 sodipodi:rx="1.2705826"
+                 sodipodi:ry="1.2705826"
+                 style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 transform="translate(245.8731,221.9945)"
+                 sodipodi:type="arc" />
+              <path
+                 sodipodi:cx="-176.94243"
+                 sodipodi:cy="653.02588"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 id="path5105"
+                 sodipodi:rx="1.2705826"
+                 sodipodi:ry="1.2705826"
+                 style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 transform="translate(249.93953,221.9945)"
+                 sodipodi:type="arc" />
+              <path
+                 sodipodi:cx="-176.94243"
+                 sodipodi:cy="653.02588"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 id="path5107"
+                 sodipodi:rx="1.2705826"
+                 sodipodi:ry="1.2705826"
+                 style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 transform="translate(241.95037,225.9945)"
+                 sodipodi:type="arc" />
+              <path
+                 sodipodi:cx="-176.94243"
+                 sodipodi:cy="653.02588"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 id="path5109"
+                 sodipodi:rx="1.2705826"
+                 sodipodi:ry="1.2705826"
+                 style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 transform="translate(245.8731,225.9945)"
+                 sodipodi:type="arc" />
+              <path
+                 sodipodi:cx="-176.94243"
+                 sodipodi:cy="653.02588"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 id="path5111"
+                 sodipodi:rx="1.2705826"
+                 sodipodi:ry="1.2705826"
+                 style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 transform="translate(249.93953,225.9945)"
+                 sodipodi:type="arc" />
+            </g>
+          </g>
+          <g
+             id="g5113"
+             transform="translate(100.99788,-2539.1454)"
+             style="fill:#2e3436;fill-opacity:1">
+            <g
+               transform="translate(-61.0004,-867)"
+               style="fill:#2e3436;fill-opacity:1;display:inline"
+               inkscape:label="status"
+               id="g5115" />
+            <g
+               transform="translate(-61.0004,-867)"
+               inkscape:label="devices"
+               id="g5117"
+               style="fill:#2e3436;fill-opacity:1" />
+            <g
+               transform="translate(-61.0004,-867)"
+               inkscape:label="apps"
+               id="g5119"
+               style="fill:#2e3436;fill-opacity:1" />
+            <g
+               transform="translate(-61.0004,-867)"
+               inkscape:label="places"
+               id="g5121"
+               style="fill:#2e3436;fill-opacity:1" />
+            <g
+               transform="translate(-61.0004,-867)"
+               inkscape:label="mimetypes"
+               id="g5123"
+               style="fill:#2e3436;fill-opacity:1" />
+            <g
+               transform="translate(-61.0004,-867)"
+               style="fill:#2e3436;fill-opacity:1;display:inline"
+               inkscape:label="emblems"
+               id="g5125" />
+            <g
+               transform="translate(-61.0004,-867)"
+               style="fill:#2e3436;fill-opacity:1;display:inline"
+               inkscape:label="emotes"
+               id="g5127" />
+            <g
+               transform="translate(-61.0004,-867)"
+               style="fill:#2e3436;fill-opacity:1;display:inline"
+               inkscape:label="categories"
+               id="g5129" />
+            <g
+               transform="translate(-61.0004,-867)"
+               style="fill:#2e3436;fill-opacity:1;display:inline"
+               inkscape:label="actions"
+               id="g5131">
+              <path
+                 sodipodi:type="arc"
+                 transform="translate(241.95037,217.9945)"
+                 style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 sodipodi:ry="1.2705826"
+                 sodipodi:rx="1.2705826"
+                 id="path5133"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 sodipodi:cy="653.02588"
+                 sodipodi:cx="-176.94243" />
+              <path
+                 sodipodi:type="arc"
+                 transform="translate(245.8731,217.9945)"
+                 style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 sodipodi:ry="1.2705826"
+                 sodipodi:rx="1.2705826"
+                 id="path5135"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 sodipodi:cy="653.02588"
+                 sodipodi:cx="-176.94243" />
+              <path
+                 sodipodi:type="arc"
+                 transform="translate(249.93953,217.9945)"
+                 style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 sodipodi:ry="1.2705826"
+                 sodipodi:rx="1.2705826"
+                 id="path5137"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 sodipodi:cy="653.02588"
+                 sodipodi:cx="-176.94243" />
+              <path
+                 sodipodi:type="arc"
+                 transform="translate(241.95037,221.9945)"
+                 style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 sodipodi:ry="1.2705826"
+                 sodipodi:rx="1.2705826"
+                 id="path5139"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 sodipodi:cy="653.02588"
+                 sodipodi:cx="-176.94243" />
+              <path
+                 sodipodi:type="arc"
+                 transform="translate(245.8731,221.9945)"
+                 style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 sodipodi:ry="1.2705826"
+                 sodipodi:rx="1.2705826"
+                 id="path5141"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 sodipodi:cy="653.02588"
+                 sodipodi:cx="-176.94243" />
+              <path
+                 sodipodi:type="arc"
+                 transform="translate(249.93953,221.9945)"
+                 style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 sodipodi:ry="1.2705826"
+                 sodipodi:rx="1.2705826"
+                 id="path5143"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 sodipodi:cy="653.02588"
+                 sodipodi:cx="-176.94243" />
+              <path
+                 sodipodi:type="arc"
+                 transform="translate(241.95037,225.9945)"
+                 style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 sodipodi:ry="1.2705826"
+                 sodipodi:rx="1.2705826"
+                 id="path5145"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 sodipodi:cy="653.02588"
+                 sodipodi:cx="-176.94243" />
+              <path
+                 sodipodi:type="arc"
+                 transform="translate(245.8731,225.9945)"
+                 style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 sodipodi:ry="1.2705826"
+                 sodipodi:rx="1.2705826"
+                 id="path5147"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 sodipodi:cy="653.02588"
+                 sodipodi:cx="-176.94243" />
+              <path
+                 sodipodi:type="arc"
+                 transform="translate(249.93953,225.9945)"
+                 style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                 sodipodi:ry="1.2705826"
+                 sodipodi:rx="1.2705826"
+                 id="path5149"
+                 d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                 sodipodi:cy="653.02588"
+                 sodipodi:cx="-176.94243" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g15486">
+        <rect
+           style="opacity:0.69135802;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#d3d7cf;stroke-width:1.05643594;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+           id="rect12629"
+           width="478.94357"
+           height="344.93753"
+           x="180.52802"
+           y="-1684.1096"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 659.49981,-1623.1378 -479.00001,0"
+           inkscape:path-effect="#path-effect15336-7"
+           id="path13504"
+           d="m 659.49981,-1623.1378 -479.00001,0"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.05701755;display:inline"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="202.22989"
+           y="-1648.8391"
+           id="text13527"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             sodipodi:role="line"
+             id="tspan13529"
+             x="202.22989"
+             y="-1648.8391">Menus have icons</tspan></text>
+        <g
+           transform="translate(-105.5,-2179.9538)"
+           id="g13535"
+           style="display:inline"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g13537"
+             transform="translate(0,30)">
+            <path
+               sodipodi:type="inkscape:offset"
+               inkscape:radius="0"
+               inkscape:original="M 646.5 483.5 C 645.392 483.5 644.5 484.392 644.5 485.5 L 644.5 506.5 C 644.5 507.608 645.392 508.5 646.5 508.5 L 740.5 508.5 C 741.608 508.5 742.5 507.608 742.5 506.5 L 742.5 485.5 C 742.5 484.392 741.608 483.5 740.5 483.5 L 646.5 483.5 z "
+               xlink:href="#rect62754"
+               style="color:#000000;fill:url(#linearGradient19548);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+               id="path13539"
+               inkscape:href="#rect62754"
+               d="m 646.5,483.5 c -1.108,0 -2,0.892 -2,2 l 0,21 c 0,1.108 0.892,2 2,2 l 94,0 c 1.108,0 2,-0.892 2,-2 l 0,-21 c 0,-1.108 -0.892,-2 -2,-2 l -94,0 z"
+               transform="translate(0,1)" />
+            <rect
+               ry="2"
+               rx="2"
+               y="483.5"
+               x="644.5"
+               height="25"
+               width="98"
+               id="rect13541"
+               style="fill:url(#linearGradient19550);fill-opacity:1;stroke:#1a71cc;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <rect
+               ry="1"
+               rx="1"
+               y="485.5"
+               x="695.5"
+               height="21"
+               width="45"
+               id="rect13543"
+               style="fill:url(#linearGradient19552);fill-opacity:1;stroke:#777b7a;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+            <g
+               id="g13545"
+               transform="translate(18,0)">
+              <rect
+                 style="fill:#e8e8e5;fill-opacity:1;stroke:none;display:inline"
+                 id="rect13547"
+                 width="2"
+                 height="8"
+                 x="695"
+                 y="492"
+                 rx="1"
+                 ry="1" />
+              <rect
+                 style="fill:#e8e8e5;fill-opacity:1;stroke:none;display:inline"
+                 id="rect13549"
+                 width="2"
+                 height="8"
+                 x="699"
+                 y="492"
+                 rx="1"
+                 ry="1" />
+              <rect
+                 style="fill:#e8e8e5;fill-opacity:1;stroke:none;display:inline"
+                 id="rect13551"
+                 width="2"
+                 height="8"
+                 x="703"
+                 y="492"
+                 rx="1"
+                 ry="1" />
+            </g>
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 696.51634,486.57192 42.96736,0"
+               id="path13553"
+               inkscape:path-effect="#path-effect62989-8-0"
+               inkscape:original-d="m 696.51634,486.57192 42.96736,0"
+               inkscape:connector-curvature="0" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-size:13.14816952px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a71cc;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+             x="650.92676"
+             y="537.71863"
+             id="text13555"
+             sodipodi:linespacing="125%"
+             transform="scale(1.0113976,0.98873084)"><tspan
+               sodipodi:role="line"
+               id="tspan13557"
+               x="650.92676"
+               y="537.71863">ON</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:13.14816952px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+             x="650.92676"
+             y="536.96008"
+             id="text13559"
+             sodipodi:linespacing="125%"
+             transform="scale(1.0113976,0.98873084)"><tspan
+               sodipodi:role="line"
+               id="tspan13561"
+               x="650.92676"
+               y="536.96008">ON</tspan></text>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.05701755;display:inline"
+           d="m 659.49981,-1562.1378 -479.00001,0"
+           id="path13662"
+           inkscape:path-effect="#path-effect13674"
+           inkscape:original-d="m 659.49981,-1562.1378 -479.00001,0"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           transform="translate(-105.5,-2119.9538)"
+           id="g62750"
+           style="display:inline"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g62752"
+             transform="translate(0,30)">
+            <path
+               sodipodi:type="inkscape:offset"
+               inkscape:radius="0"
+               inkscape:original="M 646.5 483.5 C 645.392 483.5 644.5 484.392 644.5 485.5 L 644.5 506.5 C 644.5 507.608 645.392 508.5 646.5 508.5 L 740.5 508.5 C 741.608 508.5 742.5 507.608 742.5 506.5 L 742.5 485.5 C 742.5 484.392 741.608 483.5 740.5 483.5 L 646.5 483.5 z "
+               xlink:href="#rect62754"
+               style="color:#000000;fill:url(#linearGradient19554);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+               id="path62862"
+               inkscape:href="#rect62754"
+               d="m 646.5,483.5 c -1.108,0 -2,0.892 -2,2 l 0,21 c 0,1.108 0.892,2 2,2 l 94,0 c 1.108,0 2,-0.892 2,-2 l 0,-21 c 0,-1.108 -0.892,-2 -2,-2 l -94,0 z"
+               transform="translate(0,1)" />
+            <rect
+               ry="2"
+               rx="2"
+               y="483.5"
+               x="644.5"
+               height="25"
+               width="98"
+               id="rect62754"
+               style="fill:url(#linearGradient19556);fill-opacity:1;stroke:#a6a8a6;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <rect
+               ry="1"
+               rx="1"
+               y="485.5"
+               x="646.5"
+               height="21"
+               width="45"
+               id="rect62756"
+               style="fill:url(#linearGradient19558);fill-opacity:1;stroke:#777b7a;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+            <g
+               id="g62816"
+               transform="translate(-30,0)">
+              <rect
+                 style="fill:#e8e8e5;fill-opacity:1;stroke:none;display:inline"
+                 id="rect62758"
+                 width="2"
+                 height="8"
+                 x="695"
+                 y="492"
+                 rx="1"
+                 ry="1" />
+              <rect
+                 style="fill:#e8e8e5;fill-opacity:1;stroke:none;display:inline"
+                 id="rect62760"
+                 width="2"
+                 height="8"
+                 x="699"
+                 y="492"
+                 rx="1"
+                 ry="1" />
+              <rect
+                 style="fill:#e8e8e5;fill-opacity:1;stroke:none;display:inline"
+                 id="rect62762"
+                 width="2"
+                 height="8"
+                 x="703"
+                 y="492"
+                 rx="1"
+                 ry="1" />
+            </g>
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 647.4744,486.57192 41.60931,0"
+               id="path62827"
+               inkscape:path-effect="#path-effect62829-6-8-0-4"
+               inkscape:original-d="m 647.4744,486.57192 41.60931,0"
+               inkscape:connector-curvature="0" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-size:13.14816952px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+             x="695.66675"
+             y="537.67523"
+             id="text62764-9"
+             sodipodi:linespacing="125%"
+             transform="scale(1.0113976,0.98873084)"><tspan
+               sodipodi:role="line"
+               id="tspan62766-4"
+               x="695.66675"
+               y="537.67523">OFF</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:13.14816952px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+             x="695.66675"
+             y="536.96008"
+             id="text62764"
+             sodipodi:linespacing="125%"
+             transform="scale(1.0113976,0.98873084)"><tspan
+               sodipodi:role="line"
+               id="tspan62766"
+               x="695.66675"
+               y="536.96008">OFF</tspan></text>
+        </g>
+        <g
+           id="g13718"
+           transform="translate(170.22989,-2181.2199)"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <text
+             xml:space="preserve"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+             x="32"
+             y="593.36218"
+             id="text13676"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan13678"
+               x="32"
+               y="593.36218">Buttons have icons</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="202.22989"
+           y="-1465.8391"
+           id="text26465"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             sodipodi:role="line"
+             id="tspan26467"
+             x="202.22989"
+             y="-1465.8391">Current theme</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text26469"
+           y="-1465.6378"
+           x="638.16412"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           xml:space="preserve"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             id="tspan26471"
+             y="-1465.6378"
+             x="638.16412"
+             sodipodi:role="line">Adwaita (default)</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 659.49981,-1440.1378 -479.00001,0"
+           inkscape:path-effect="#path-effect13774"
+           id="path26473"
+           d="m 659.49981,-1440.1378 -479.00001,0"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.05701755;display:inline"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text26475"
+           y="-1405.0511"
+           x="202.22989"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           xml:space="preserve"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             y="-1405.0511"
+             x="202.22989"
+             id="tspan26477"
+             sodipodi:role="line">Cursor theme</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="638.16412"
+           y="-1404.8499"
+           id="text26479"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             sodipodi:role="line"
+             x="638.16412"
+             y="-1404.8499"
+             id="tspan26481">DMZ-Black</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.05701755;display:inline"
+           d="m 659.49981,-1562.1378 -479.00001,0"
+           id="path26498"
+           inkscape:path-effect="#path-effect26605"
+           inkscape:original-d="m 659.49981,-1562.1378 -479.00001,0"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 659.49981,-1501.1378 -479.00001,0"
+           inkscape:path-effect="#path-effect26602"
+           id="path26500"
+           d="m 659.49981,-1501.1378 -479.00001,0"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.05701755;display:inline"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           id="g26504"
+           transform="translate(-105.5,-2028.9538)"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             sodipodi:type="inkscape:offset"
+             inkscape:radius="0"
+             inkscape:original="M 646.5 483.5 C 645.392 483.5 644.5 484.392 644.5 485.5 L 644.5 506.5 C 644.5 507.608 645.392 508.5 646.5 508.5 L 740.5 508.5 C 741.608 508.5 742.5 507.608 742.5 506.5 L 742.5 485.5 C 742.5 484.392 741.608 483.5 740.5 483.5 L 646.5 483.5 z "
+             xlink:href="#rect62754"
+             style="color:#000000;fill:url(#linearGradient19560);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+             id="path26506"
+             inkscape:href="#rect62754"
+             d="m 646.5,483.5 c -1.108,0 -2,0.892 -2,2 l 0,21 c 0,1.108 0.892,2 2,2 l 94,0 c 1.108,0 2,-0.892 2,-2 l 0,-21 c 0,-1.108 -0.892,-2 -2,-2 l -94,0 z"
+             transform="translate(0,1)" />
+          <rect
+             ry="2"
+             rx="2"
+             y="483.5"
+             x="644.5"
+             height="25"
+             width="98"
+             id="rect26508"
+             style="fill:url(#linearGradient19562);fill-opacity:1;stroke:#a6a8a6;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <rect
+             ry="1"
+             rx="1"
+             y="485.5"
+             x="646.5"
+             height="21"
+             width="45"
+             id="rect26510"
+             style="fill:url(#linearGradient19564);fill-opacity:1;stroke:#777b7a;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+          <g
+             id="g26512"
+             transform="translate(-30,0)">
+            <rect
+               style="fill:#e8e8e5;fill-opacity:1;stroke:none;display:inline"
+               id="rect26514"
+               width="2"
+               height="8"
+               x="695"
+               y="492"
+               rx="1"
+               ry="1" />
+            <rect
+               style="fill:#e8e8e5;fill-opacity:1;stroke:none;display:inline"
+               id="rect26516"
+               width="2"
+               height="8"
+               x="699"
+               y="492"
+               rx="1"
+               ry="1" />
+            <rect
+               style="fill:#e8e8e5;fill-opacity:1;stroke:none;display:inline"
+               id="rect26518"
+               width="2"
+               height="8"
+               x="703"
+               y="492"
+               rx="1"
+               ry="1" />
+          </g>
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 647.4744,486.57192 41.60931,0"
+             id="path26520"
+             inkscape:path-effect="#path-effect62829-6-8-0-4"
+             inkscape:original-d="m 647.4744,486.57192 41.60931,0"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:13.14816952px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+           x="591.35565"
+           y="-1544.7458"
+           id="text26522"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0113976,0.98873084)"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             sodipodi:role="line"
+             id="tspan26524"
+             x="591.35565"
+             y="-1544.7458">OFF</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:13.14816952px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+           x="591.35565"
+           y="-1545.4609"
+           id="text26526"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0113976,0.98873084)"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             sodipodi:role="line"
+             id="tspan26528"
+             x="591.35565"
+             y="-1545.4609">OFF</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="202.22989"
+           y="-1528.5984"
+           id="text26532"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             sodipodi:role="line"
+             id="tspan26534"
+             x="202.22989"
+             y="-1528.5984">Enable dark theme for all applications</tspan></text>
+        <g
+           id="g4327"
+           transform="translate(0,27.762841)"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.05701755;display:inline"
+             d="m 659.49981,-1406.3426 -479.00001,0"
+             id="path26500-8"
+             inkscape:path-effect="#path-effect26602-8"
+             inkscape:original-d="m 659.49981,-1406.3426 -479.00001,0"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4371"
+           transform="translate(43.691803,-24.04587)"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <text
+             xml:space="preserve"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+             x="158.3082"
+             y="-1320.808"
+             id="text26475-8"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan26477-1"
+               x="158.3082"
+               y="-1320.808">GTK+ theme</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text26479-2"
+             y="-1320.808"
+             x="594.47229"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+             xml:space="preserve"><tspan
+               id="tspan26481-6"
+               y="-1320.808"
+               x="594.47229"
+               sodipodi:role="line">Adwaita (default)</tspan></text>
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+         style="display:inline"
+         id="g5031"
+         transform="translate(23.4998,-1806.1377)">
+        <path
+           transform="translate(30,0)"
+           d="m 699,9 0,22.5 c 0,2.510035 1.98997,4.5 4.5,4.5 l 22.5,0 0,-22.5 C 726,10.989965 724.01003,9 721.5,9 L 699,9 z"
+           id="path5033"
+           style="color:#000000;fill:url(#linearGradient19566);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:original="M 698.5 8.5 L 698.5 31.5 C 698.5 34.27 700.73 36.5 703.5 36.5 L 726.5 36.5 L 726.5 13.5 C 726.5 10.73 724.27 8.5 721.5 8.5 L 698.5 8.5 z "
+           inkscape:radius="-0.484375"
+           sodipodi:type="inkscape:offset" />
+        <g
+           transform="translate(30,0)"
+           id="g5035">
+          <g
+             id="g5037"
+             style="opacity:0.3;stroke:#000000"
+             transform="translate(0,1)">
+            <path
+               sodipodi:nodetypes="cc"
+               inkscape:connector-curvature="0"
+               id="path5039"
+               d="m 709,20 6,6"
+               style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <path
+               sodipodi:nodetypes="cc"
+               inkscape:connector-curvature="0"
+               id="path5041"
+               d="m 715,20 -6,6"
+               style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          </g>
+          <g
+             id="g5043"
+             style="stroke:#ffffff">
+            <path
+               sodipodi:nodetypes="cc"
+               inkscape:connector-curvature="0"
+               id="path5045"
+               d="m 709,20 6,6"
+               style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <path
+               sodipodi:nodetypes="cc"
+               inkscape:connector-curvature="0"
+               id="path5047"
+               d="m 715,20 -6,6"
+               style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          </g>
+        </g>
+        <path
+           style="color:#000000;fill:none;stroke:url(#linearGradient19568);stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 728.5,9 0,22.5 c 0,2.77 2.23,5 5,5 l 22.5,0"
+           id="path5049"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cssc" />
+        <path
+           style="color:#000000;fill:none;stroke:url(#linearGradient19570);stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="M 727.5,9.0036565 727.5,31.5 c 0,3.30961 2.69039,6 6,6 l 22.5,0"
+           id="path5051"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cssc" />
+      </g>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+         sodipodi:linespacing="125%"
+         id="text5053"
+         y="-1776.1998"
+         x="420.164"
+         style="font-size:14.30000019px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         xml:space="preserve"><tspan
+           y="-1776.1998"
+           x="420.164"
+           id="tspan5055"
+           sodipodi:role="line">Theme</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-02.png"
+         xml:space="preserve"
+         style="font-size:14.30000019px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         x="420.164"
+         y="-1777.2003"
+         id="text5057"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5059"
+           x="420.164"
+           y="-1777.2003">Theme</tspan></text>
+    </g>
+    <g
+       transform="translate(-16.642562,2350.0001)"
+       id="g16531">
+      <g
+         id="g15744">
+        <rect
+           y="-2275.1284"
+           x="161.13179"
+           height="435.00003"
+           width="517.73602"
+           id="rect5027-2"
+           style="fill:#ededed;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.99999994;stroke-opacity:1;display:inline"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:nodetypes="cssssc"
+           inkscape:connector-curvature="0"
+           id="path5029-7"
+           d="m 161.13179,-2274.1283 0,-26.5 c 0,-2.77 2.23,-5 5,-5 l 507.73603,0 c 2.77,0 5,2.23 5,5 l 0,26.5"
+           style="color:#000000;fill:url(#linearGradient19830);fill-opacity:1;fill-rule:nonzero;stroke:#a6a6a6;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <g
+           id="g5190"
+           transform="translate(-105.33365,0.0625)"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             style="display:inline"
+             id="g5031-4"
+             transform="translate(27.763969,-2314.1282)">
+            <path
+               transform="translate(30,0)"
+               d="m 699,9 0,22.5 c 0,2.510035 1.98997,4.5 4.5,4.5 l 22.5,0 0,-22.5 C 726,10.989965 724.01003,9 721.5,9 L 699,9 z"
+               id="path5033-2"
+               style="color:#000000;fill:url(#linearGradient19832);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+               inkscape:original="M 698.5 8.5 L 698.5 31.5 C 698.5 34.27 700.73 36.5 703.5 36.5 L 726.5 36.5 L 726.5 13.5 C 726.5 10.73 724.27 8.5 721.5 8.5 L 698.5 8.5 z "
+               inkscape:radius="-0.484375"
+               sodipodi:type="inkscape:offset" />
+            <g
+               transform="translate(30,0)"
+               id="g5035-4">
+              <g
+                 id="g5037-0"
+                 style="opacity:0.3;stroke:#000000"
+                 transform="translate(0,1)">
+                <path
+                   sodipodi:nodetypes="cc"
+                   inkscape:connector-curvature="0"
+                   id="path5039-2"
+                   d="m 709,20 6,6"
+                   style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+                <path
+                   sodipodi:nodetypes="cc"
+                   inkscape:connector-curvature="0"
+                   id="path5041-5"
+                   d="m 715,20 -6,6"
+                   style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+              </g>
+              <g
+                 id="g5043-6"
+                 style="stroke:#ffffff">
+                <path
+                   sodipodi:nodetypes="cc"
+                   inkscape:connector-curvature="0"
+                   id="path5045-2"
+                   d="m 709,20 6,6"
+                   style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+                <path
+                   sodipodi:nodetypes="cc"
+                   inkscape:connector-curvature="0"
+                   id="path5047-5"
+                   d="m 715,20 -6,6"
+                   style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+              </g>
+            </g>
+            <path
+               style="color:#000000;fill:none;stroke:url(#linearGradient19834);stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+               d="m 728.5,9 0,22.5 c 0,2.77 2.23,5 5,5 l 22.5,0"
+               id="path5049-3"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cssc" />
+            <path
+               style="color:#000000;fill:none;stroke:url(#linearGradient19836);stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+               d="M 727.5,9.0036565 727.5,31.5 c 0,3.30961 2.69039,6 6,6 l 22.5,0"
+               id="path5051-6"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cssc" />
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:14.30000019px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+           x="419.95444"
+           y="-2284.1904"
+           id="text5053-8"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             sodipodi:role="line"
+             id="tspan5055-1"
+             x="419.95444"
+             y="-2284.1904">GNOME Tweak Tool</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text5057-8"
+           y="-2285.1909"
+           x="419.95444"
+           style="font-size:14.30000019px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+           xml:space="preserve"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             y="-2285.1909"
+             x="419.95444"
+             id="tspan5059-6"
+             sodipodi:role="line">GNOME Tweak Tool</tspan></text>
+        <g
+           id="g8240-2"
+           transform="translate(91.500091,-1618.2453)"
+           inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             style="display:inline"
+             id="g5067-8"
+             transform="translate(-12.5002,1897.9872)">
+            <rect
+               style="opacity:0.4;color:#000000;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+               id="rect5069-1"
+               width="35"
+               height="30.999998"
+               x="91.5"
+               y="-2545.125"
+               rx="3"
+               ry="3"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               inkscape:export-xdpi="90"
+               inkscape:export-ydpi="90" />
+            <rect
+               style="color:#000000;fill:url(#linearGradient19838);fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+               id="rect5071-4"
+               width="35"
+               height="32"
+               x="91.5"
+               y="-2547.125"
+               rx="3"
+               ry="3"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               inkscape:export-xdpi="90"
+               inkscape:export-ydpi="90" />
+            <path
+               style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 93.219345,-2546.1856 30.252115,0"
+               id="path5073-8"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cc"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               inkscape:export-xdpi="90"
+               inkscape:export-ydpi="90" />
+            <g
+               id="g5075-6"
+               transform="translate(100.99788,-2538.145)"
+               style="fill:#f4f4f4;fill-opacity:1">
+              <g
+                 transform="translate(-61.0004,-867)"
+                 style="fill:#f4f4f4;fill-opacity:1;display:inline"
+                 inkscape:label="status"
+                 id="g5077-6" />
+              <g
+                 transform="translate(-61.0004,-867)"
+                 inkscape:label="devices"
+                 id="g5079-1"
+                 style="fill:#f4f4f4;fill-opacity:1" />
+              <g
+                 transform="translate(-61.0004,-867)"
+                 inkscape:label="apps"
+                 id="g5081-8"
+                 style="fill:#f4f4f4;fill-opacity:1" />
+              <g
+                 transform="translate(-61.0004,-867)"
+                 inkscape:label="places"
+                 id="g5083-8"
+                 style="fill:#f4f4f4;fill-opacity:1" />
+              <g
+                 transform="translate(-61.0004,-867)"
+                 inkscape:label="mimetypes"
+                 id="g5085-1"
+                 style="fill:#f4f4f4;fill-opacity:1" />
+              <g
+                 transform="translate(-61.0004,-867)"
+                 style="fill:#f4f4f4;fill-opacity:1;display:inline"
+                 inkscape:label="emblems"
+                 id="g5087-2" />
+              <g
+                 transform="translate(-61.0004,-867)"
+                 style="fill:#f4f4f4;fill-opacity:1;display:inline"
+                 inkscape:label="emotes"
+                 id="g5089-7" />
+              <g
+                 transform="translate(-61.0004,-867)"
+                 style="fill:#f4f4f4;fill-opacity:1;display:inline"
+                 inkscape:label="categories"
+                 id="g5091-5" />
+              <g
+                 transform="translate(-61.0004,-867)"
+                 style="fill:#f4f4f4;fill-opacity:1;display:inline"
+                 inkscape:label="actions"
+                 id="g5093-6">
+                <path
+                   sodipodi:type="arc"
+                   transform="translate(241.95037,217.9945)"
+                   style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   sodipodi:ry="1.2705826"
+                   sodipodi:rx="1.2705826"
+                   id="path5095-1"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   sodipodi:cy="653.02588"
+                   sodipodi:cx="-176.94243" />
+                <path
+                   sodipodi:type="arc"
+                   transform="translate(245.8731,217.9945)"
+                   style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   sodipodi:ry="1.2705826"
+                   sodipodi:rx="1.2705826"
+                   id="path5097-8"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   sodipodi:cy="653.02588"
+                   sodipodi:cx="-176.94243" />
+                <path
+                   sodipodi:type="arc"
+                   transform="translate(249.93953,217.9945)"
+                   style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   sodipodi:ry="1.2705826"
+                   sodipodi:rx="1.2705826"
+                   id="path5099-9"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   sodipodi:cy="653.02588"
+                   sodipodi:cx="-176.94243" />
+                <path
+                   sodipodi:type="arc"
+                   transform="translate(241.95037,221.9945)"
+                   style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   sodipodi:ry="1.2705826"
+                   sodipodi:rx="1.2705826"
+                   id="path5101-8"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   sodipodi:cy="653.02588"
+                   sodipodi:cx="-176.94243" />
+                <path
+                   sodipodi:type="arc"
+                   transform="translate(245.8731,221.9945)"
+                   style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   sodipodi:ry="1.2705826"
+                   sodipodi:rx="1.2705826"
+                   id="path5103-6"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   sodipodi:cy="653.02588"
+                   sodipodi:cx="-176.94243" />
+                <path
+                   sodipodi:type="arc"
+                   transform="translate(249.93953,221.9945)"
+                   style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   sodipodi:ry="1.2705826"
+                   sodipodi:rx="1.2705826"
+                   id="path5105-1"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   sodipodi:cy="653.02588"
+                   sodipodi:cx="-176.94243" />
+                <path
+                   sodipodi:type="arc"
+                   transform="translate(241.95037,225.9945)"
+                   style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   sodipodi:ry="1.2705826"
+                   sodipodi:rx="1.2705826"
+                   id="path5107-5"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   sodipodi:cy="653.02588"
+                   sodipodi:cx="-176.94243" />
+                <path
+                   sodipodi:type="arc"
+                   transform="translate(245.8731,225.9945)"
+                   style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   sodipodi:ry="1.2705826"
+                   sodipodi:rx="1.2705826"
+                   id="path5109-1"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   sodipodi:cy="653.02588"
+                   sodipodi:cx="-176.94243" />
+                <path
+                   sodipodi:type="arc"
+                   transform="translate(249.93953,225.9945)"
+                   style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   sodipodi:ry="1.2705826"
+                   sodipodi:rx="1.2705826"
+                   id="path5111-0"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   sodipodi:cy="653.02588"
+                   sodipodi:cx="-176.94243" />
+              </g>
+            </g>
+            <g
+               style="fill:#2e3436;fill-opacity:1"
+               transform="translate(100.99788,-2539.1454)"
+               id="g5113-4">
+              <g
+                 id="g5115-5"
+                 inkscape:label="status"
+                 style="fill:#2e3436;fill-opacity:1;display:inline"
+                 transform="translate(-61.0004,-867)" />
+              <g
+                 style="fill:#2e3436;fill-opacity:1"
+                 id="g5117-0"
+                 inkscape:label="devices"
+                 transform="translate(-61.0004,-867)" />
+              <g
+                 style="fill:#2e3436;fill-opacity:1"
+                 id="g5119-2"
+                 inkscape:label="apps"
+                 transform="translate(-61.0004,-867)" />
+              <g
+                 style="fill:#2e3436;fill-opacity:1"
+                 id="g5121-7"
+                 inkscape:label="places"
+                 transform="translate(-61.0004,-867)" />
+              <g
+                 style="fill:#2e3436;fill-opacity:1"
+                 id="g5123-5"
+                 inkscape:label="mimetypes"
+                 transform="translate(-61.0004,-867)" />
+              <g
+                 id="g5125-5"
+                 inkscape:label="emblems"
+                 style="fill:#2e3436;fill-opacity:1;display:inline"
+                 transform="translate(-61.0004,-867)" />
+              <g
+                 id="g5127-2"
+                 inkscape:label="emotes"
+                 style="fill:#2e3436;fill-opacity:1;display:inline"
+                 transform="translate(-61.0004,-867)" />
+              <g
+                 id="g5129-3"
+                 inkscape:label="categories"
+                 style="fill:#2e3436;fill-opacity:1;display:inline"
+                 transform="translate(-61.0004,-867)" />
+              <g
+                 id="g5131-6"
+                 inkscape:label="actions"
+                 style="fill:#2e3436;fill-opacity:1;display:inline"
+                 transform="translate(-61.0004,-867)">
+                <path
+                   sodipodi:cx="-176.94243"
+                   sodipodi:cy="653.02588"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   id="path5133-6"
+                   sodipodi:rx="1.2705826"
+                   sodipodi:ry="1.2705826"
+                   style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   transform="translate(241.95037,217.9945)"
+                   sodipodi:type="arc" />
+                <path
+                   sodipodi:cx="-176.94243"
+                   sodipodi:cy="653.02588"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   id="path5135-4"
+                   sodipodi:rx="1.2705826"
+                   sodipodi:ry="1.2705826"
+                   style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   transform="translate(245.8731,217.9945)"
+                   sodipodi:type="arc" />
+                <path
+                   sodipodi:cx="-176.94243"
+                   sodipodi:cy="653.02588"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   id="path5137-5"
+                   sodipodi:rx="1.2705826"
+                   sodipodi:ry="1.2705826"
+                   style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   transform="translate(249.93953,217.9945)"
+                   sodipodi:type="arc" />
+                <path
+                   sodipodi:cx="-176.94243"
+                   sodipodi:cy="653.02588"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   id="path5139-2"
+                   sodipodi:rx="1.2705826"
+                   sodipodi:ry="1.2705826"
+                   style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   transform="translate(241.95037,221.9945)"
+                   sodipodi:type="arc" />
+                <path
+                   sodipodi:cx="-176.94243"
+                   sodipodi:cy="653.02588"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   id="path5141-5"
+                   sodipodi:rx="1.2705826"
+                   sodipodi:ry="1.2705826"
+                   style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   transform="translate(245.8731,221.9945)"
+                   sodipodi:type="arc" />
+                <path
+                   sodipodi:cx="-176.94243"
+                   sodipodi:cy="653.02588"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   id="path5143-5"
+                   sodipodi:rx="1.2705826"
+                   sodipodi:ry="1.2705826"
+                   style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   transform="translate(249.93953,221.9945)"
+                   sodipodi:type="arc" />
+                <path
+                   sodipodi:cx="-176.94243"
+                   sodipodi:cy="653.02588"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   id="path5145-2"
+                   sodipodi:rx="1.2705826"
+                   sodipodi:ry="1.2705826"
+                   style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   transform="translate(241.95037,225.9945)"
+                   sodipodi:type="arc" />
+                <path
+                   sodipodi:cx="-176.94243"
+                   sodipodi:cy="653.02588"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   id="path5147-8"
+                   sodipodi:rx="1.2705826"
+                   sodipodi:ry="1.2705826"
+                   style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   transform="translate(245.8731,225.9945)"
+                   sodipodi:type="arc" />
+                <path
+                   sodipodi:cx="-176.94243"
+                   sodipodi:cy="653.02588"
+                   d="m -175.67185,653.02588 c 0,0.70172 -0.56886,1.27058 -1.27058,1.27058 -0.70172,0 -1.27058,-0.56886 -1.27058,-1.27058 0,-0.70172 0.56886,-1.27058 1.27058,-1.27058 0.70172,0 1.27058,0.56886 1.27058,1.27058 z"
+                   id="path5149-7"
+                   sodipodi:rx="1.2705826"
+                   sodipodi:ry="1.2705826"
+                   style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+                   transform="translate(249.93953,225.9945)"
+                   sodipodi:type="arc" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g15616">
+          <rect
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+             ry="5.5539246"
+             rx="5.5539241"
+             y="-2261.1284"
+             x="502.49988"
+             height="27"
+             width="156.00003"
+             id="rect57704"
+             style="opacity:0.17283953;color:#000000;fill:none;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+          <rect
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+             style="color:#000000;fill:url(#linearGradient19840);fill-opacity:1;fill-rule:nonzero;stroke:#729fcf;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+             id="rect57708"
+             width="167"
+             height="30"
+             x="502.50012"
+             y="-2265.1284"
+             rx="3.8039246"
+             ry="3.8039246" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+             inkscape:connector-curvature="0"
+             inkscape:original-d="m 508.50002,-2260.6283 0,21"
+             inkscape:path-effect="#path-effect57728-9-9-2"
+             id="path57726"
+             d="m 508.50002,-2260.6283 0,21"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <g
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+             transform="translate(0,3.4611118)"
+             id="g21716">
+            <path
+               style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.55467153;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+               d="m 652.60581,-2261.6283 c -3.5144,0 -6.3942,2.8985 -6.3942,6.4359 0,3.5373 2.8798,6.4358 6.3942,6.4358 3.5143,0 6.3941,-2.8985 6.3941,-6.4358 0,-3.5374 -2.8798,-6.4359 -6.3941,-6.4359 z m 0,2.3488 c 2.2595,0 4.0605,1.8128 4.0605,4.0871 0,2.2743 -1.801,4.0869 -4.0605,4.0869 -2.2595,0 -4.0605,-1.8126 -4.0605,-4.0869 0,-2.2743 1.801,-4.0871 4.0605,-4.0871 z"
+               id="path7265-7"
+               inkscape:connector-curvature="0" />
+            <path
+               style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.43409336;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+               d="m 656.45141,-2252.3619 a 1.1459688,1.1459688 0 0 1 0.6991,0.3497 l 4.6942,4.4444 a 1.1658165,1.1658165 0 1 1 -1.598,1.6979 l -4.6942,-4.4944 a 1.1459688,1.1459688 0 0 1 0.8989,-1.9976 z"
+               id="path7267-0"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+         y="-2224.1763"
+         x="162.14815"
+         height="382.92566"
+         width="515.69971"
+         id="rect12629-9"
+         style="opacity:0.69135802;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#d3d7cf;stroke-width:1.05643594;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+         y="-2223.5952"
+         x="162.65776"
+         height="129.50168"
+         width="514.56818"
+         id="rect6594"
+         style="fill:#f9f9f9;fill-opacity:1;stroke:none" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+         style="display:inline"
+         id="g5061-2"
+         transform="matrix(0.71661541,0,0,1,99.28593,123.9967)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5063-3"
+           d="m 87.5,-2349.125 719.99909,0"
+           style="fill:none;stroke:#b5b8b5;stroke-width:1.00138986px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+         transform="translate(96.86782,0)"
+         id="g6646">
+        <path
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 563,-2094.0935 -480,0"
+           inkscape:path-effect="#path-effect15336-7-3"
+           id="path13504-6"
+           d="m 563,-2094.0935 -480,0"
+           style="fill:none;stroke:#dbdddb;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+           x="82.066292"
+           y="-2201.3899"
+           id="text13527-5-2"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan13529-2-1"
+             x="82.066292"
+             y="-2201.3899">Appearance</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="142.76265"
+           y="-2118.8027"
+           id="text13527-5"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan13529-2"
+             x="142.76265"
+             y="-2118.8027">Desktop</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="262.76263"
+           y="-2118.2197"
+           id="text13527-5-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan13529-2-8"
+             x="262.76263"
+             y="-2118.2197">Fonts</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="382.76263"
+           y="-2118.2197"
+           id="text13527-5-5"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan13529-2-5"
+             x="382.76263"
+             y="-2118.2197">Theme</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="502.76263"
+           y="-2118.2197"
+           id="text13527-5-0"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan13529-2-53"
+             x="502.76263"
+             y="-2118.2197">Windows</tspan></text>
+        <rect
+           transform="translate(0,-2347.6379)"
+           y="124.04272"
+           x="65.78994"
+           height="129.50168"
+           width="514.56818"
+           id="rect6596"
+           style="fill:none;stroke:none" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+         id="g6646-0"
+         transform="translate(96.867817,129.50168)">
+        <path
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 563,-2094.0935 -480,0"
+           inkscape:path-effect="#path-effect15336-7-3-5"
+           id="path13504-6-6"
+           d="m 563,-2094.0935 -480,0"
+           style="fill:none;stroke:#dbdddb;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+           x="82.066292"
+           y="-2201.3899"
+           id="text13527-5-2-8"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan13529-2-1-2"
+             x="82.066292"
+             y="-2201.3899">GNOME Shell</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="142.76265"
+           y="-2118.8027"
+           id="text13527-5-8"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan13529-2-4"
+             x="142.76265"
+             y="-2118.8027">Behaviour</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="262.76263"
+           y="-2118.2197"
+           id="text13527-5-4-9"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan13529-2-8-5"
+             x="262.76263"
+             y="-2118.2197">Extensions</tspan></text>
+        <rect
+           transform="translate(0,-2347.6379)"
+           y="124.04272"
+           x="65.78994"
+           height="129.50168"
+           width="514.56818"
+           id="rect6596-9"
+           style="fill:none;stroke:none" />
+      </g>
+      <g
+         id="g6646-0-7"
+         transform="translate(96.867817,259.00336)">
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+           x="82.066292"
+           y="-2201.3899"
+           id="text13527-5-2-8-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan13529-2-1-2-6"
+             x="82.066292"
+             y="-2201.3899">Miscellaneous</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="142.76265"
+           y="-2118.8027"
+           id="text13527-5-8-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan13529-2-4-8"
+             x="142.76265"
+             y="-2118.8027">Files</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="262.76263"
+           y="-2118.2197"
+           id="text13527-5-4-9-8"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan13529-2-8-5-5"
+             x="262.76263"
+             y="-2118.2197">Typing</tspan></text>
+        <rect
+           transform="translate(0,-2347.6379)"
+           y="124.04272"
+           x="65.78994"
+           height="129.50168"
+           width="514.56818"
+           id="rect6596-9-8"
+           style="fill:none;stroke:none" />
+      </g>
+      <image
+         y="-1925.5952"
+         x="216.65776"
+         id="image6975"
+         xlink:href="data:image/png;base64,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 ze8AAAAASUVORK5CYII= "
+         height="48"
+         width="48"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <image
+         y="-2183.5952"
+         x="216.65776"
+         id="image6977"
+         xlink:href="data:image/png;base64,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 "
+         height="48"
+         width="48"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <image
+         y="-2183.5952"
+         x="336.65778"
+         id="image6979"
+         xlink:href="data:image/png;base64,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 "
+         height="48"
+         width="48"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <image
+         y="-2183.5952"
+         x="456.65778"
+         id="image6981"
+         xlink:href="data:image/png;base64,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 RK5CYII= "
+         height="48"
+         width="48"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <image
+         y="-1925.5952"
+         x="336.65778"
+         id="image6983"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAACl1JREFU aIHVmXtwVNUdxz/nnLsJkE0CBAMohldsRSVqlUed6R/Y8hRBiiJoKQVR1Bk6deoDQcdXUahlnE51 fIMg+MAp41Ce0iltxwE7ovKoI6AC8iqgkATI3t37OKd/7L03u+wmm8Qw0/52Mvfu3XO+v9/3/O55 /L4RxhjOt/UfvrBcF+lpIKeD6dJ2JFELeol05NKvNz1UDyBCAtOnT+9gp85Oi1lFc1NOqqqtLjoU Fx9wXGe+9sSylStXOj8ct6ib47v7gNK2B55jZ4pUrN+e1b/9zgqf2KmzMy6+uOoPN44d17FXr14o pbCUQkqFsoJ7JRFIjNH4WuP7Pr7no7WP5/v4vs+hQwf7rFm75k8HDx7WwGJHu3cApaXFvpk2eoD4 8dXVKKVQUiGlRFnBvRIZ2AatQ2yNr9PYWz/dy9INe8yZlCoNcBdGBGJW0X2jR43uWF1dzfHjx4hZ MayYhWUFf8pCqbRTHQTv+R6e5+G56avruQwYcBla6w6Llyy5H1hsYKYAZtxwqZg0ZkiADVZMYFkS yxJYSubB1ngeeK7G83xc4TJ1wk8oLpJi0Xt7MTAzi0DKSVV3796Dgwe/oX//av5z/Aie0XiuA27h nBqp6dGjJ/v2fU1lZXdSqeQAAGG4AOC6q/u1C/bgmr7w3t4I18psqH0f13U5euwQDYkGGhoaEAgA hBC5wMH8McbQqaQTxhhc18X3/Zy27YVtyaKsdlkEXM/DcVIoqxw7YaOkynUggIyFK3SUtJOUlZXh uik8z8sJqL2wUcXNEHBdkskUAFJKhBCRg0KjFDlLpnDd3PfCdb12wUZlD47MduKQTNpIIZFKImX6 L5xgUkkQkHJS0XPf17iem24vJKlUCtd1cgLyvMLYjuPga42UEmMMjuOk22Zge142dhYBx3Gwk0lE AB51DhwpqUglU0y++XZ830dKyYsvvMQHG/+aHlUpsZNJHCeXQEuwP/xwC48/+iRKKZ6Z/3u2bPko ItoUdg6BpG1HneS5zpSkvLycIUMHs3XrRyBg69Z/MXLU8Kitbdt5CbiOWxB7zJhRuK7L8jffwnUd Ro4cntXWtm1cJ/v1zJoDjuOQsIM0C4mQIn0VAkTjuzph4k28veJd4vE411xzNfF4HKMNUjRNwHFb hj112u3cO2s2y5YvRkoJhmxst7kMuA62nQhSJhodSdm4cyrFNdf+iCOHj/D+qtXcNHF8VrtkMtdJ S7EBXn7xVebMfYAXnn8JBAWxZY4nslcJIUSjI9VI4oaxYzh06BA1AwciZLpdGERz1hz2WyveYcjQ wdw6eRLdulWwfu2GgthWvodSyPQmE6Q2M83hdl9fX8/Nt0yM1m5BelQLEmgGe8Ydv0JrjdGGp55+ Aq01WutmsZvMgAl3FJO9JjuOw5wH5rJjx04mTBxPYzPT4gw0ha21Tq/7BGt/C7DzZuDM6dPES+Ik Egk0GmnSox5OtCm/mMyAAZcihIiclnQqIZGw8x4jWoMdkjHGoE1h7LwEtu/YyZU1V9LrwovzBtGz 8sKcZ7V1dXyybVuzwbcEO581h51DIBYrImbFWL9hXcHRzLR4SZyuFRXNvkbnAzv7iYEe3bvjuE6r HADYSZtYLEZlZfesA9n5xo4IWErtqaurxQCJRKJVDgB83yeVSmEpi7r6WixL7Qp+OgnwxYFT7YK9 +5uT4eOTkPEKaaOf+2z7jueuuqqmY5fOXenSuW21d23tKbZv32n7mkUARrBYGH73l49PaV9reWnv blT2LGs1ruPD7gPfse7TOg0xaQSLIaOonzRpUpGwxBQpzTzt09fPv8IWNCHF/qSnnj1iqt6vdYtd 6akLtLZ2AB3bBJjfEsqz+n618f4TIlNW6T9uYZXRepYxYiZQ2Y4OW2IasA3YAqJJYkAJIyoQRoD4 EqNfczvw+uFVD5+EjAxcNO6JTkV+8VGgHEDik6fOOC9mDGhU+LXeUakLj6x+LJosfW5YsEnAzwRy xL61D27K7BvNgWK/+DYD5fEi38z++eVi2NABjWd3IYKzu0IKgZASFZzRw8OWkhIIGRv84EigjcZo HXzXaG3Qxkf7Gh3uvlrzt4++4PlVn5uzjiov9otvA14LYxOCgxjA+H3OJR8RMDAd4Nbrq8XYn17L 4SOHg0JDIkMdR6VPjiokoxpPklI2lojpY4GJNB3tN3X1I31pwsihfFuXEq9v2B/GEhHAmCtAYIhW tlwCQAXAoIFV7D+wn0uqL+HoiSNYlgrHNP3Rbvpt/T6mQCqQMQUe9Ojaky+/+pJBA6t4fcP+KBaA PmOfHiaQgwDXi8d2NEcAIF3jui5Hjx8mYSdoONsQ/ZZTfAsiaaQpM5iczSdz4SiJl/CtORbIMdkr X//RCwYJKZcCwmAWHlp5n12QgOd7ONrBilkkTiai7Tsz+HwqQkgoiDo/mYzAw/tEIkFZWRmO4+CZ MNtU9B2zYBWScYACPu52vOLJfJi5GfA8UjoJkKvdZI54dGk6A67rYsWsLFKZGckklEol8aUVQndD MCHo9UevpPjhbdvuyqvh5RBwXQ/PTaZrVymjoBN2gvfe/TN7du+loqIrE2+eQL/+/XA9j1gs76GW 8aMmsuGDNbmBB/fhVQpJMpnExKK9rtYYZmN5Ww6sfmR/kyOUl4DnojPkDwScPXOWe++ezeWXX8bt U6dw4vi3eL5PMpXkrhn3sOKdZYRDF0QYfZVKRs/ODTy8CpkmIEVU7544sG7OiuYCb5qA4+IkG+UP BLyxeBk1NQOZM+/BqBwEeHbBIo4dO8b8p57h17+ZzSsvvcqQoYPZuGET8xc8CQiUVNkVWBh8UHlh 0lWanbQpUrmSZCHLOfA4noMdyB+herBr1+eMGJWt0SipmDT5FuKlpcy6507KO5exds16du78N7dO uQWl0vMne68IRSoRbJCNPmzbxvFy1YxClrsKeW46nYEDBBij8Twv+i6EQCDo3qMSSyku6nVRNJln 3X0nJSWdolGPtJ2gzhVGYERjzStMKJkkiXkt0NrPsSaPnNEEFoKBNVewft3GaLSi44NSGGMihc2y LErL4pFkGOKc2y9TVkHQIjGg9QQC+UMgmHnnHezZvZdf3jadZUvf5NF5j/OPv/+T0tL0v73eWv4O iYYECLJeF8iWTjJXXJHxaYkc03oCgfxhMHTuUs7yt99g2oypKGUx/qYbGTJ0MMYYXnzleYqLi5FK Mu+RhyMtxxjD3EcfapTHz92NMz7fJwP5F3DgdH09pSWlnGk4A0AsFuP664dlCVFGG6p6V9G7d28Q MHL0cHzthxEyctQIjM7WeTJ1H2MMpSWlnK6vb38CO3bu4sqaGnr36tNm8JbYqVOn+OSzT9vcPy+B RvljfasVhNZaS+SY5iy31/eQP9piBeWYApZJIC1/7D8FQmC3Qf5oi4WSSSwWS/vOiKUlFr1CApYY uG7zrnpd3knKq35QSec2Sittse17j7N5V72GmBSwpKX9/i+K+ubsf0lWOSGEeU1I+fLXqx862NJO WQRCGzbsCetAZ+LtGl4B61PH2c2bH2v1cfS/c9zaA3NiSywAAAAASUVORK5CYII= "
+         height="48"
+         width="48"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <image
+         y="-2183.5952"
+         x="576.65778"
+         id="image6985"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAAA5FJREFU aIHtmkFvG0UYhp9vd53axhtsaFCFE9ckMkmUBlEhQSv+QoSQUPkLUPUOiUCIYypxQIhfwoUrcEDi gGhJU/VARNRCVUpL1ZrYq3rGw8Fey7t2anvteL0Sr7S2Rt6d7333m/ne0YzFGEOSYcVNYFw43Q0R kbiIAJgIw0GMMYiIbG9vr5x+qXBVa/2OMcYZ/OjkICLKtu1vHtx/9PHu7u7BKEJ8ok7+RfeLcxub Wxcvvm2n0+kTotrC77d/C7QFcf55+Ojd73/4zgYuAY1h+3Law2ZOkK23LlywbceioZ5OlnEItdpR oC0i5F943hJkC5gTETVsFvwMpIwxdspJoZWaMN1eeJ7Hy2cWaTY1C6fPsHfzF1LOHMYYG0iN0pcv wAJoNpuoaQioe9SOjlhb3WD/5q94dY/nMjn/55EqY2CyGtNE6aGHX2RYloVl2+ztX6dceoW/H97H caLVjZAAM5UMFIuL/HH3DjTh3l93ybk5ohaOoAAMSp+8gFzO5bWN83S7TvpUJlJfISOzeFJ9PBa5 qFgqljs0GOCp3RUqKKD9fW7t9cmyG4Abt651Yn/2+acPMpk0/QT4hrezs9MxvNDMiXMl0Yp9+cMr FAoFRGQowwsNoWmR7YUfW+kGDfUUERnK8EI1N/4MaKU6l+d5VJbXyc8XqCyvU6/X0UoHDC8gYCYy oFTn8uoeh4cHlEsrHB4e4NU9tNL+I1bno6ub6THuQTsDWqF0A6UbWJZFaanM3v51SktlgB7D61uF 4oAfW+nW2xcRisVFfvr5R1JO6ljDC8qZgTGktELploBczuWN828+0/BmLgPVf58gFn19AAKGB4Qz MAMS1iubHR8Io9vwfISqUHwCho8dvC9xuxJhnYkT8H8G4kfSMxBqJ05AeAwlTkDyM5D4ORAaQn03 Y27cujYVMpNAj4CVs6/GwSMyAgK++vrLuHhEhi9AbX/0ySbgcvySVAD38pUPvr303vv8ee8Oy2cr EyMiIriuO/IWo2OMMSJSA25zzJzwYwD5hYUFVldXmcvarFXWxqDch4zjkM1mR1oVOwDGGCUi1QH3 CkAmkyafzzP/eJ5CoRCd7XFBRlzSd974oAOFdsdGROi+4kbifCCMxAsY6zRyFgwvsoBZMbxIAmbJ 8GTYM+X2iYMLlHi24Z00DFCl5VvVoQUAiIgDZBlz7kwACqgZY9RIAiD+/1P48H1rZAGzhv8Au+o1 dnOKo1kAAAAASUVORK5CYII= "
+         height="48"
+         width="48"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <image
+         y="-2054.5952"
+         x="216.65776"
+         id="image6987"
+         xlink:href="data:image/png;base64,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 "
+         height="48"
+         width="48"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <image
+         y="-2054.5952"
+         x="336.65778"
+         id="image6989"
+         xlink:href="data:image/png;base64,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 "
+         height="48"
+         width="48"
+         inkscape:export-filename="/home/camelia/Descargas/gnome-tweak-tool-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="translate(2096.5367,-291.21057)"
+       id="g74554"
+       inkscape:label="status"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;display:inline" />
+    <g
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1"
+       transform="translate(2096.5367,-291.21057)"
+       id="g74556"
+       inkscape:label="devices" />
+    <g
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1"
+       transform="translate(2096.5367,-291.21057)"
+       id="g74558"
+       inkscape:label="apps" />
+    <g
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1"
+       transform="translate(2096.5367,-291.21057)"
+       id="g74560"
+       inkscape:label="actions" />
+    <g
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1"
+       transform="translate(2096.5367,-291.21057)"
+       id="g74562"
+       inkscape:label="places" />
+    <g
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1"
+       transform="translate(2096.5367,-291.21057)"
+       id="g74564"
+       inkscape:label="mimetypes" />
+    <g
+       transform="translate(2096.5367,-291.21057)"
+       id="g74566"
+       inkscape:label="emblems"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;display:inline" />
+    <g
+       transform="translate(2096.5367,-291.21057)"
+       id="g74568"
+       inkscape:label="categories"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;display:inline" />
+    <g
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:label="status"
+       id="g74572"
+       transform="translate(2068.0278,-231.67837)" />
+    <g
+       inkscape:label="devices"
+       id="g74574"
+       transform="translate(2068.0278,-231.67837)"
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       inkscape:label="apps"
+       id="g74576"
+       transform="translate(2068.0278,-231.67837)"
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       inkscape:label="places"
+       id="g74582"
+       transform="translate(2068.0278,-231.67837)"
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       inkscape:label="mimetypes"
+       id="g74584"
+       transform="translate(2068.0278,-231.67837)"
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:label="emblems"
+       id="g74586"
+       transform="translate(2068.0278,-231.67837)" />
+    <g
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:label="categories"
+       id="g74588"
+       transform="translate(2068.0278,-231.67837)" />
+    <g
+       transform="translate(2068.0278,828.32163)"
+       id="g75150"
+       inkscape:label="status"
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(2068.0278,828.32163)"
+       id="g75152"
+       inkscape:label="devices" />
+    <g
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(2068.0278,828.32163)"
+       id="g75154"
+       inkscape:label="apps" />
+    <g
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(2068.0278,828.32163)"
+       id="g75156"
+       inkscape:label="places" />
+    <g
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(2068.0278,828.32163)"
+       id="g75158"
+       inkscape:label="mimetypes" />
+    <g
+       transform="translate(2068.0278,828.32163)"
+       id="g75160"
+       inkscape:label="emblems"
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       transform="translate(2068.0278,828.32163)"
+       id="g75162"
+       inkscape:label="categories"
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>
